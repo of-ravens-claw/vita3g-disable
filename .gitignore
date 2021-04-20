@@ -1,0 +1,11 @@
+build
+.vs
+.vscode
+
+*.s*prx
+*.suprx
+*.skprx
+*.vpk
+*.velf
+*.elf
+*.self
